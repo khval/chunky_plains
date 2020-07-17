@@ -5,7 +5,7 @@ Hi this graphics experiment a precursor to retroMode.library, it was written aro
 Disclaimer:
 
     Video mode ID is hard coded in the source code, 
-    it probably does work on AmigaOS4.1 Final.
+    it probably does not work on AmigaOS4.1 Final.
     The code is present as it is, not interested 
     in spending time bug fixing it.
 
