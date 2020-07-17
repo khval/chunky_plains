@@ -1,3 +1,5 @@
+Copyright Kjetil Hvalstrand @ 2013
+
 Hi this graphics experiment a precursor to retroMode.library, it was written around 2013.
 
 Disclaimer:
