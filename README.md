@@ -1,5 +1,12 @@
 Hi this graphics experiment a precursor to retroMode.library
 
+Disclaimer:
+
+    Video mode ID is hard coded in the source code, 
+    it probably does work on AmigaOS4.1 Final.
+    The code is present as it is, not interested 
+    in spending time bug fixing it.
+
 “chunky_plains” 
 
     did masking and shifting on etch pixel write.
